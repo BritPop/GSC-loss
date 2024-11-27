@@ -1,5 +1,5 @@
 # GSC-loss
-This repository is the implementation of the paper "Generalized Score Comparison-based Learning Objecitve for Deep Speaker Embedding," which is to be submitted to IEEE/ACM Transactions on Audio, Speech and Language Processing. The code is developed based on the [voxceleb_trainer](https://github.com/clovaai/voxceleb_trainer).
+This repository is the implementation of the paper "Generalized Score Comparison-based Learning Objecitve for Deep Speaker Embedding," which is to be submitted to IEEE ACCESS. The code is developed based on the [voxceleb_trainer](https://github.com/clovaai/voxceleb_trainer).
 
 ## Dependencies
 If you use the Anaconda virtual environment,
