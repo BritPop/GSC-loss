@@ -76,7 +76,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python trainSpeakerNet.py \
         --initial_model ./save/ska_tdnn/model/your_model.model \
         --test_list ./list/veri_test2.txt \
         --test_path /path/to/dataset/VoxCeleb1/test/wav \
-        --model SKA_TDNN \
+        --model ECAPA_TDNN \
         --port 8001 \
         --distributed
 ```
